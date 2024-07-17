@@ -1,0 +1,20 @@
+#image{
+    display:block;
+    max-width: 70%;
+    height: auto;
+  }
+  
+  #img-caption{
+    margin: 3px;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+  #tribute-info{
+    margin: 30px;
+    font-size: 20px;
+  }
+  
+  #tribute-link{
+   
+  }
