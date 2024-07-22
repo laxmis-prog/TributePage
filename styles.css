@@ -1,7 +1,7 @@
 #image{
     display:block;
-    max-width: 70%;
-    height: auto;
+    width: auto;
+    height: 400;
   }
   
   #img-caption{
@@ -15,6 +15,4 @@
     font-size: 20px;
   }
   
-  #tribute-link{
-   
-  }
+  
