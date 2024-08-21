@@ -11,7 +11,6 @@
 
 #background {
   background-color:lightblue;
-  
 }
 
 
@@ -61,16 +60,13 @@
     text-align: center;
     list-style-position: inside;
     padding-bottom: 50px;
-
-
-
   }
 
   footer{
-    
     text-align: center;
     background-color:lavender;
     height: 77;
+    padding-right:112px;
  
   }
 
